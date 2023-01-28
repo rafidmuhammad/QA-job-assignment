@@ -31,7 +31,6 @@ describe("Integration for add a movie and get all movies", () => {
     })
 
     test("Then get the movies and validate if the object is contained", async() => {
-        const title = "Life_of_Rafid"
        try {
 	    response = await axios.get(`http://localhost:5000/allmovie/`);
         expect(response.status).toBe(200);
