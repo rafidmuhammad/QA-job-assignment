@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`get movies with queries validating data sorted with query parameter asc  validate sorting order 1`] = `
+[
+  {
+    "description": "
+A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.",
+    "title": "American Psycho",
+  },
+  {
+    "description": "
+Hoping to walk away with a massive fortune, a trio of thieves break into the house of a blind man who isn't as helpless as he seems.",
+    "title": "Don't Breathe",
+  },
+  {
+    "description": "
+Six strangers find themselves in a maze of deadly mystery rooms and must use their wits to survive.",
+    "title": "Escape Room",
+  },
+  {
+    "description": "
+With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+    "title": "Gone Girl",
+  },
+  {
+    "description": "
+When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+    "title": "Jaws",
+  },
+  {
+    "description": "
+Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.",
+    "title": "Jumanji: Welcome to the Jungle",
+  },
+  {
+    "description": "
+A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "title": "Jurassic Park",
+  },
+  {
+    "description": "
+An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "title": "The Departed",
+  },
+  {
+    "description": "
+The world's top bodyguard gets a new client, a hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial on time.",
+    "title": "The Hitman's Bodyguard",
+  },
+  {
+    "description": "
+A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+  },
+]
+`;
+
+exports[`get movies with queries validating data sorted with query parameter desc  validate sorting order 1`] = `
+[
+  {
+    "description": "
+A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.",
+    "title": "American Psycho",
+  },
+  {
+    "description": "
+Hoping to walk away with a massive fortune, a trio of thieves break into the house of a blind man who isn't as helpless as he seems.",
+    "title": "Don't Breathe",
+  },
+  {
+    "description": "
+Six strangers find themselves in a maze of deadly mystery rooms and must use their wits to survive.",
+    "title": "Escape Room",
+  },
+  {
+    "description": "
+With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+    "title": "Gone Girl",
+  },
+  {
+    "description": "
+When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+    "title": "Jaws",
+  },
+  {
+    "description": "
+Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.",
+    "title": "Jumanji: Welcome to the Jungle",
+  },
+  {
+    "description": "
+A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "title": "Jurassic Park",
+  },
+  {
+    "description": "
+An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "title": "The Departed",
+  },
+  {
+    "description": "
+The world's top bodyguard gets a new client, a hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial on time.",
+    "title": "The Hitman's Bodyguard",
+  },
+  {
+    "description": "
+A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+  },
+]
+`;
