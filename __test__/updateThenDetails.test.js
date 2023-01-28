@@ -5,7 +5,7 @@ expect.extend(matchersWithOptions({
 }))
 
 
-describe("Integration for update and get movie details should newly updated data", () => {
+describe("Integration for update and get movie details should contain newly updated data", () => {
     let response;
     
     const updateBody = {
